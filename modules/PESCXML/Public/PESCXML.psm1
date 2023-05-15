@@ -6,7 +6,7 @@
 	Collection of Functions to support the exchange of XML data conforming to PESC XML standards
 
 .NOTES
-	Author: Joel C Mathias (jmathias@cscc.edu)
+	Author: Joel C Mathias
 	Date: Created 05/15/2023
 	Version: 0.01
 	Build: 
